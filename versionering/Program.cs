@@ -10,8 +10,13 @@ namespace versionering
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("hello Philippa");
             Console.Writeline("hello jonas");
+
+            Console.WriteLine("hello Philip");
+            Console.Writeline("hello jonasen");
+
         }
     }
 }
